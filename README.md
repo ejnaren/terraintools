@@ -6,7 +6,7 @@
 These components help create large mesh terrain formations in Rhinoceros easily be using curves and Grasshopper.  
 This toolbox consists of several components to help create, edit and export these formations in and from Rhino. The components can be changed to get different results as shown in the introduction section.
 
-[IMAGE: MAIN IMAGE]
+![Terrain made from curves](https://github.com/ejnaren/terraintools/raw/master/Docs/Imgs/Generic%20Terrain.jpg)
 
 ## The why...
 Traditionally several workflows are used to create terrain in different applications. But many of these has undesired side effects. In example extruding contour curves results in stepped terrain. Triangulation based on points are impossible to work with for smooth terrains, paths and roads. Subdivision surfaces have limited control of the detailing of the terrain.
