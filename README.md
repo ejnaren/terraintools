@@ -1,4 +1,4 @@
-[IMAGE: LOGO]
+<img alt="Terrain Tools Logo" width="200" src="https://github.com/ejnaren/terraintools/raw/master/Docs/Imgs/Terrain%20Tools%20Logo.png">
 
 # TERRAIN TOOLS
 
