@@ -30,3 +30,9 @@ That being said if anybody finds ways to improve the tools or have ideas for new
 
 ## Thanks
 I created these tools to help solve annoying problems in my workflows and by releasing them I hope they can be of help to others as well. Thank you to the McNeel team who make these amazing tools a possibility.
+
+These tools are created as part of the ARKITECH project at  
+
+<img alt="ARKI architects Logo" height="50" src="https://github.com/ejnaren/terraintools/raw/master/Docs/Imgs/ARKI%20LOGO%20500px.png">  
+
+ARKI Architects, Norway. 
